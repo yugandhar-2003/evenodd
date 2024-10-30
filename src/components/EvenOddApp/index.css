@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  text-align: center;
+  height: 50vh;
+  width: 60vh;
+  padding: 20px;
+  margin-left: 15%;
+  margin-top: 25%;
+  border-radius: 15px;
+}
+.incrementnum {
+  margin-top: 20%;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+
+.para {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #334155;
+}
+
+.buttons {
+  padding: 10px 25px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.pa {
+  color: #334155;
+}
